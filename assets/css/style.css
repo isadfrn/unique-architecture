@@ -30,11 +30,12 @@ header img {
 
 header h1 {
   font-size: 1.8rem;
-  text-align: center;
-  padding: 2rem;
   font-family: var(--inter);
   font-weight: 400;
+
+  text-align: center;
   line-height: 2rem;
+  padding: 2rem;
 }
 
 header h1 strong {
